@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "../styles/AddRecipeForm.css"; // you can create or update this CSS file
+import "../styles/AddRecipeForm.css";
 
 const AddRecipeForm = () => {
   const navigate = useNavigate();
